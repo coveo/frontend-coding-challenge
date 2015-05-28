@@ -9,7 +9,7 @@ Tu peux y accéder via https://cloudplatform.coveo.com/rest/search avec le token
 Ce token te donne accès à un index contenant les différents alcools en vente à la SAQ.
  
 Par exemple, pour chercher pour des bières rousses:
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=Bi%C3%A8re%20rousse
+```https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=Bi%C3%A8re%20rousse```
  
 Pour chercher pour des boissons à moins de 10$:
     https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpprixnum<10
