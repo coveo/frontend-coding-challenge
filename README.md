@@ -25,5 +25,5 @@ Plus d'info sur le format de la réponse:
 https://developers.coveo.com/display/SearchREST/Query+Results
  
 Si tu as besoin d'un exemple ou d'inspiration, tu peux regarder
-saq.coveodemo.com, support.logitech.com ou help.salesforce.com
+http://saq.coveodemo.com, http://support.logitech.com ou http://help.salesforce.com
 Mais ne copie pas de code! On va le savoir :)
