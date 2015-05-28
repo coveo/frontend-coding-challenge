@@ -1,10 +1,9 @@
 # Coveo JavaScript Challenge
-
+## Le défi ##
 Ton défi, si tu l'acceptes, est de monter une interface de recherche de base basée sur l'API de recherche REST de Coveo.
  
 Voir la [documentation de l'API de recherche REST](https://developers.coveo.com/display/SearchREST/Invoking+the+REST+Search+API).
 
- 
 Tu peux y accéder via https://cloudplatform.coveo.com/rest/search avec le token qui te sera fournit.
 Ce token te donne accès à un index contenant les différents alcools en vente à la SAQ.
 
@@ -17,7 +16,8 @@ https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpprixnum
  
 ####Pour chercher pour des Merlot####
 https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpcepagenomsplitgroup==Merlot
- 
+
+## Lecture ##
 Plus d'info sur la syntaxe de query voir [la documentation sur la syntaxe](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm) et [la documentation sur l'API](https://developers.coveo.com/display/SearchREST/Query+Parameters).
 
 Plus d'info sur le [format de la réponse](https://developers.coveo.com/display/SearchREST/Query+Results).
