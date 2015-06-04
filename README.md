@@ -7,22 +7,28 @@ Voir la [documentation de l'API de recherche REST](https://developers.coveo.com/
 Tu peux y accéder via https://cloudplatform.coveo.com/rest/search avec le token qui te sera fournit.
 Ce token te donne accès à un index contenant les différents alcools en vente à la SAQ.
 
-## Exemples ##
-####Pour chercher pour des bières rousses####
-https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=Bi%C3%A8re%20rousse
+## Exemples
+#### Pour chercher pour des bières rousses
+
+    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=Bi%C3%A8re%20rousse
  
-####Pour chercher pour des boissons à moins de 10$####
-https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpprixnum%3C10
+#### Pour chercher pour des boissons à moins de 10$
+
+    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpprixnum%3C10
  
-####Pour chercher pour des Merlot####
-https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpcepagenomsplitgroup==Merlot
+#### Pour chercher pour des Merlot
 
-## Lecture ##
-Plus d'info sur la syntaxe de query voir [la documentation sur la syntaxe](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm) et [la documentation sur l'API](https://developers.coveo.com/display/SearchREST/Query+Parameters).
+    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpcepagenomsplitgroup==Merlot
 
-Plus d'info sur le [format de la réponse](https://developers.coveo.com/display/SearchREST/Query+Results).
+## Plus d'informations 
 
+- [La documentation sur la syntaxe de requêtes](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm)
+- [La documentation sur l'API](https://developers.coveo.com/display/SearchREST/Query+Parameters)
+- [La documentation sur le format de la réponse](https://developers.coveo.com/display/SearchREST/Query+Results).
+
+## Inspiration
 Si tu as besoin d'un exemple ou d'inspiration, tu peux regarder certains de nos sites:
+
 * http://saq.coveodemo.com
 * http://support.logitech.com
 * http://help.salesforce.com
