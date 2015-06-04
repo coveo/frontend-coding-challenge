@@ -23,7 +23,8 @@ Ce token te donne accès à un index contenant les différents alcools en vente 
 ## Plus d'informations
 
 - [La documentation sur la syntaxe de requêtes](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm)
-- [La documentation sur l'API](https://developers.coveo.com/display/SearchREST/Query+Parameters)
+- [La documentation sur l'API](https://developers.coveo.com/display/public/SearchREST/Invoking+the+REST+Search+API)
+- [La documentation sur les paramètres]((https://developers.coveo.com/display/SearchREST/Query+Parameters))
 - [La documentation sur le format de la réponse](https://developers.coveo.com/display/SearchREST/Query+Results).
 
 ## Inspiration
