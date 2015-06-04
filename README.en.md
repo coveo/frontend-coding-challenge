@@ -1,11 +1,11 @@
 # Coveo JavaScript Challenge
 ## The challenge
 
-The challenge, if you accept it, is about building a search interface based on Coveo REST API.
+The challenge, if you accept it, is about building a search interface based on the Coveo REST API.
 
 See [the documentation section](#documentation)
 
-You can access this api through https://cloudplatform.coveo.com/rest/search with the token we will give you, or if you are courageous you can find it on your own. This token grants you acces to a Coveo index containing different types of alcools which are sold in [SAQ](saq.com).
+You can access this api through https://cloudplatform.coveo.com/rest/search with the token we will provide you. This token grants you access to a Coveo index containing different types of alcohols which are sold in [SAQ](saq.com).
 
 ## Exemples
 #### Searching Amber Ales
