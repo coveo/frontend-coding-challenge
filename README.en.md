@@ -25,7 +25,7 @@ You can access this api through https://cloudplatform.coveo.com/rest/search with
 - [Query syntax doc. syntax](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm)
 - [REST API doc.](https://developers.coveo.com/display/public/SearchREST/Invoking+the+REST+Search+API)
 - [REST parameter doc.](https://developers.coveo.com/display/SearchREST/Query+Parameters)
-- [Response format doc.](https://developers.coveo.com/display/SearchREST/Query+Results).
+- [Response format doc.](https://developers.coveo.com/display/SearchREST/Query+Results)
 
 ## Inspiration
 Need inspiration? you can see some examples of our sites and implementations here:
