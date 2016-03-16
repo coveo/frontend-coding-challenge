@@ -5,7 +5,7 @@ Ton défi, si tu l'acceptes, est de monter une interface de recherche de base ba
 Voir la [documentation de l'API de recherche REST](https://developers.coveo.com/display/SearchREST/Invoking+the+REST+Search+API).
 
 Tu peux y accéder via https://cloudplatform.coveo.com/rest/search avec le token qui te sera fournit.
-Ce token te donne accès à un index contenant les différents alcools en vente à la [SAQ](saq.com).
+Ce token te donne accès à un index contenant les différents alcools en vente à la [SAQ](https://www.saq.com).
 
 ## Exemples
 #### Pour chercher pour des bières rousses
