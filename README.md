@@ -28,7 +28,7 @@ Ce token te donne accès à un index contenant les différents alcools en vente 
 - [La documentation sur le format de la réponse](https://developers.coveo.com/display/SearchREST/Query+Results)
 
 ## Inspiration
-Si tu as besoin d'un exemple ou d'inspiration, tu peux regarder certains de nos sites:
+Si tu as besoin d'inspiration:
 
 * http://saq.coveodemo.com
 * http://support.logitech.com
