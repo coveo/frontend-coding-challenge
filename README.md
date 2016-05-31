@@ -1,4 +1,4 @@
-# Coveo JavaScript Challenge
+# Coveo Front End Challenge
 ## Le défi
 Ton défi, si tu l'acceptes, est de monter une interface de recherche de base basée sur l'API de recherche REST de Coveo.
 
