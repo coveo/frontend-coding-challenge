@@ -35,3 +35,10 @@ Si tu as besoin d'inspiration:
 * http://help.salesforce.com
 
 Mais ne copie pas de code! On va le savoir :)
+
+## Conseils
+
+- **Tente de créer ta solution comme si c'était du vrai code de production**. Montre nous comment tu crées du code propre et maintenable qui fait des choses incroyables. Construit quelque chose à laquelle nous serions heureux de contribuer. Ceci n'est pas un concours de programmation où les "hack" malpropres remportent la victoire.
+- N'hésite pas à ajouter des fonctionnalités! Nous sommes curieux de voir ce à quoi tu peux penser. Nous nous attendrons à la même chose si tu travailles avec nous.
+- La documentation et la maintenabilité est un plus.
+- N'oublie pas les tests unitaires.
