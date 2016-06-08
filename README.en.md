@@ -38,7 +38,7 @@ But, don't copy, we will know :)
 
 ## Advices
 
-Try to design and implement your solution as you would do for real production code. Show us how you create clean, maintainable code that does awesome stuff. Build something that we'd be happy to contribute to. This is not a programming contest where dirty hacks win the game.
-Feel free to add more features! Really, we're curious about what you can think of. We'd expect the same if you worked with us.
-Documentation and maintainability is a plus.
-Don't you forget those unit tests.
+- **Try to design and implement your solution as you would do for real production code**. Show us how you create clean, maintainable code that does awesome stuff. Build something that we'd be happy to contribute to. This is not a programming contest where dirty hacks win the game.
+- Feel free to add more features! Really, we're curious about what you can think of. We'd expect the same if you worked with us.
+- Documentation and maintainability is a plus.
+- Don't you forget those unit tests.
