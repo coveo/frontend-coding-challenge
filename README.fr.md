@@ -1,5 +1,7 @@
 # Coveo Front End Challenge
 ## Le défi
+
+Nous avons indexé les vins et bières disponibles sur le site de la SAQ et les avons rendus accessibles via notre REST Search API.
 Ton défi, si tu l'acceptes, est de monter une interface de recherche de base basée sur l'API de recherche REST de Coveo.
 
 Voir la [documentation de l'API de recherche REST](https://developers.coveo.com/display/SearchREST/Invoking+the+REST+Search+API).
