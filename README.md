@@ -1,6 +1,8 @@
 # Coveo Front End Challenge
 ## The challenge
 
+The SAQ is the government-run liquor store monopoly that we have in Quebec, we indexed the different wines and beers there and made it available through our REST Search API. Don’t be surprised if the prices are high!
+
 The challenge, if you accept it, is about building a search interface based on the Coveo REST API.
 
 See [the documentation section](#documentation)
