@@ -33,8 +33,7 @@ You can access this api through https://cloudplatform.coveo.com/rest/search with
 Need inspiration? you can see some examples of our sites and implementations here:
 
 * http://saq.coveodemo.com
-* http://support.logitech.com
-* http://help.salesforce.com
+* https://help.salesforce.com
 
 But, don't copy the code, we will know :)
 
