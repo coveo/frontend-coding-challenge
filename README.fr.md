@@ -1,39 +1,38 @@
 # Coveo Front End Challenge
 ## Le défi
 
-Nous avons indexé les vins et bières disponibles sur le site de la SAQ et les avons rendus accessibles via notre REST Search API.
+À travers les années, il y a tellement de Pokemon qui ont été ajouté dans le Pokedex qu'il est maintenant nécessaire d'avoir une fonction de recherche avancée.
 Ton défi, si tu l'acceptes, est de monter une interface de recherche de base basée sur l'API de recherche REST de Coveo.
 
-Voir la [documentation de l'API de recherche REST](https://developers.coveo.com/display/SearchREST/Invoking+the+REST+Search+API).
+Voir la [documentation de l'API de recherche REST](https://docs.coveo.com/en/13/).
 
-Tu peux y accéder via https://cloudplatform.coveo.com/rest/search avec le token qui te sera fournit.
-Ce token te donne accès à un index contenant les différents alcools en vente à la [SAQ](https://www.saq.com).
+Tu peux y accéder via https://platform.cloud.coveo.com/rest/search/v2 avec le token qui te sera fournit.
+Ce token te donne accès à un index contenant les différents Pokemons qui existent dans la [Pokemon Database](pokemondb.net).
 
 ## Exemples
-#### Pour chercher pour des bières rousses
+#### Pour chercher pour Pikachu
 
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=Bi%C3%A8re%20rousse
+    https://platform.cloud.coveo.com/rest/search/v2?access_token=YOUR_TOKEN&q=pikachu
 
-#### Pour chercher pour des boissons à moins de 10$
+#### Pour chercher pour des pokemon de la génération 1
 
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpprixnum%3C10
+    https://platform.cloud.coveo.com/rest/search/v2?access_token=YOUR_TOKEN&q=@generation=1
 
-#### Pour chercher pour des Merlot
+#### Pour chercher pour des Pokemon de type *"Steel"*
 
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpcepagenomsplitgroup==Merlot
+    https://platform.cloud.coveo.com/rest/search/v2?access_token=YOUR_TOKEN&q=@type=="Steel"
 
 ## Plus d'informations
 
-- [La documentation sur la syntaxe de requêtes](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm)
-- [La documentation sur l'API](https://developers.coveo.com/display/public/SearchREST/Invoking+the+REST+Search+API)
-- [La documentation sur les paramètres](https://developers.coveo.com/display/SearchREST/Query+Parameters)
-- [La documentation sur le format de la réponse](https://developers.coveo.com/display/SearchREST/Query+Results)
+- [La documentation sur comment faire une recherche](https://docs.coveo.com/en/1445)
+- [La documentation sur les paramètres de l'API](https://docs.coveo.com/en/13)
+- [La documentation sur la syntaxe de query](https://docs.coveo.com/en/1552)
+- [La documentation sur le format de la réponse](https://docs.coveo.com/en/1443)
 
 ## Inspiration
 Si tu as besoin d'inspiration:
 
-* http://saq.coveodemo.com
-* http://support.logitech.com
+* https://connect.coveo.com/s/global-search/%40uri#q=Search%20API
 * http://help.salesforce.com
 
 Mais ne copie pas de code! On va le savoir :)

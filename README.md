@@ -1,38 +1,38 @@
 # Coveo Front End Challenge
 ## The challenge
 
-The SAQ is the government-run liquor store monopoly that we have in Quebec, we indexed the different wines and beers there and made it available through our REST Search API. Don’t be surprised if the prices are high!
+Over the years multiple new generations of Pokemon have been added to the Pokedex. There is enough pokemons now that we need to be able to search within the Pokemon database to find different pokemons. Don't worry, the data has already been gathered for you!
 
 The challenge, if you accept it, is about building a search interface based on the Coveo REST API.
 
 See [the documentation section](#documentation)
 
-You can access this api through https://cloudplatform.coveo.com/rest/search with the token we will provide you. This token grants you access to a Coveo index containing different types of alcohols which are sold in [SAQ](saq.com).
+You can access this api through https://platform.cloud.coveo.com/rest/search/v2 with the token we will provide you. This token grants you access to a Coveo index containing all the different pokemons which are present in the [Pokemon Database](pokemondb.net).
 
 ## Exemples
-#### Searching Amber Ales
+#### Searching for Pikachu
 
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=Bi%C3%A8re%20rousse
+    https://platform.cloud.coveo.com/rest/search/v2?access_token=YOUR_TOKEN&q=pikachu
 
-#### Searching beers under 10$
+#### Searching for pokemons of gen 1
 
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpprixnum%3C10
+    https://platform.cloud.coveo.com/rest/search/v2?access_token=YOUR_TOKEN&q=@generation=1
 
-#### Searching Merlot
+#### Searching for pokemons of type Steel
 
-    https://cloudplatform.coveo.com/rest/search?access_token=YOUR_TOKEN&q=@tpcepagenomsplitgroup==Merlot
+    https://platform.cloud.coveo.com/rest/search/v2?access_token=YOUR_TOKEN&q=@type=="Steel"
 
 ## Documentation
 
-- [Query syntax documentation](http://onlinehelp.coveo.com/en/ces/7.0/User/coveo_query_syntax_reference.htm)
-- [REST API documentation](https://developers.coveo.com/display/public/SearchREST/Invoking+the+REST+Search+API)
-- [REST parameter documentation](https://developers.coveo.com/display/SearchREST/Query+Parameters)
-- [Response format documentation](https://developers.coveo.com/display/SearchREST/Query+Results)
+- [Performing a Query](https://docs.coveo.com/en/1445)
+- [Query syntax documentation](https://docs.coveo.com/en/1552)
+- [REST parameter documentation](https://docs.coveo.com/en/13)
+- [Response format documentation](https://docs.coveo.com/en/1443)
 
 ## Inspiration
 Need inspiration? you can see some examples of our sites and implementations here:
 
-* http://saq.coveodemo.com
+* https://connect.coveo.com/s/global-search/%40uri#q=Search%20API
 * https://help.salesforce.com
 
 But, don't copy the code, we will know :)
