@@ -35,7 +35,7 @@ Need inspiration? you can see some examples of our sites and implementations her
 * http://saq.coveodemo.com
 * https://help.salesforce.com
 
-But, don't use or copy the code from those exemple or the [Coveo Search UI framework](https://github.com/coveo/search-ui), we will know :)
+But, don't use or copy the code from those examples or the [Coveo Search UI framework](https://github.com/coveo/search-ui), we will know :)
 
 ## Advice
 
