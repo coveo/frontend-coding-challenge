@@ -35,11 +35,12 @@ Need inspiration? you can see some examples of our sites and implementations her
 * http://saq.coveodemo.com
 * https://help.salesforce.com
 
-But, don't copy the code, we will know :)
+But, don't use or copy the code from those exemple or the [Coveo Search UI framework](https://github.com/coveo/search-ui), we will know :)
 
 ## Advice
 
 - **Try to design and implement your solution as you would do for real production code**. Show us how you create clean, maintainable code that does awesome stuff. Build something that we'd be happy to contribute to. This is not a programming contest where dirty hacks win the game.
+- Even though you are free to use the framework you want, **do not use the [Coveo Search UI framework](https://github.com/coveo/search-ui)** to complete the challenge.
 - Feel free to add more features! Really, we're curious about what you can think of. We'd expect the same if you worked with us.
 - Documentation and maintainability is a plus.
 - Don't you forget those unit tests.
