@@ -39,7 +39,7 @@ But, don't use or copy the code from those examples or the [Coveo Search UI fram
 
 ## Mandatory
 
-- End result must absolutely be made available publicly on the internet. Heroku, AWS, Microsoft Azure, Google Cloud, etc. all have free tiers you can use. If you make us install and setup things locally to review the end result, you will be penalized.
+- The end result must absolutely be made available publicly on the internet. Heroku, AWS, Microsoft Azure, Google Cloud, etc. all have free tiers you can use. If we have to install and configure your project locally to review the end result, you will be penalized.
 
 ## Advice
 
