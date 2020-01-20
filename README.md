@@ -37,6 +37,10 @@ Need inspiration? you can see some examples of our sites and implementations her
 
 But, don't use or copy the code from those examples or the [Coveo Search UI framework](https://github.com/coveo/search-ui), we will know :)
 
+## Mandatory
+
+- End result must absolutely be made available publicly on the internet. Heroku, AWS, Microsoft Azure, Google Cloud, etc. all have free tiers you can use. If you make us install and setup things locally to review the end result, you will be penalized.
+
 ## Advice
 
 - **Try to design and implement your solution as you would do for real production code**. Show us how you create clean, maintainable code that does awesome stuff. Build something that we'd be happy to contribute to. This is not a programming contest where dirty hacks win the game.

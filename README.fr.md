@@ -38,6 +38,10 @@ Si tu as besoin d'inspiration:
 
 Mais ne copie pas de code! On va le savoir :)
 
+## Obligatoire
+
+- Le résultat final doit absolument être disponible publiquement sur l'internet. Heroku, AWS, Microsoft, Google Cloud, etc. ont tous des versions gratuites que vous pouvez utilisez. Si nous devons installer et configurer votre projet localement pour l'évaluer, vous serez pénalisé.
+
 ## Conseils
 
 - **Tente de créer ta solution comme si c'était du vrai code de production**. Montre nous comment tu crées du code propre et maintenable qui fait des choses incroyables. Construit quelque chose à laquelle nous serions heureux de contribuer. Ceci n'est pas un concours de programmation où les "hack" malpropres remportent la victoire.
